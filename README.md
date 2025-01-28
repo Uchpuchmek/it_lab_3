@@ -5,3 +5,8 @@
 ![alt text](/images/1.png)
 - Отправить образ не получилось
 ![alt text](/images/2.png)
+
+## Задача 2
+![alt text](/images/3.png)
+- Не удаляя, переименуйте контейнер в "custom-nginx-t2".
+![alt text](/images/4.png)
