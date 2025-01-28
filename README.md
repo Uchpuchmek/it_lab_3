@@ -3,3 +3,5 @@
 
 ## Задача 1
 ![alt text](/images/1.png)
+- Отправить образ не получилось
+![alt text](/images/2.png)
